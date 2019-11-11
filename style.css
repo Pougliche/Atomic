@@ -1,0 +1,166 @@
+.primary{
+
+    background-color:  #112433; 
+
+}
+.text-primary {
+    color: #000000;	
+  }
+.secondary{
+
+    background-color: #a5c3e1;
+
+}
+.text-secondary {
+    color: #a5c3e1;	
+  }
+.grey1{
+
+    background-color: #2C2C33;
+
+}
+.text-grey1 {
+    color: #2C2C33;	
+  }
+.grey2{
+
+    background-color: #646C74;
+
+}
+.text-grey2 {
+    color: #646C74;	
+  }
+.grey3{
+
+    background-color: #F4F4F4;
+
+}
+.text-grey3 {
+    color: #F4F4F4;	
+  }
+h1{
+    font-family: 'Cookie', cursive;
+    font-size: 70px;
+}
+h2{
+    font-family: 'Cookie', cursive;
+    font-size: 60px;
+}
+h3{
+    font-family: 'Cookie', cursive;
+    font-size: 50px;
+}
+h4{
+    font-family: 'Cookie', cursive;
+    font-size: 40px;
+}
+h5{
+    font-family: 'Cookie', cursive;
+    font-size: 30px;
+}
+h6{
+    font-family: 'Cookie', cursive;
+    font-size: 20px;
+}
+p{
+    font-family: 'Enriqueta', serif;
+    font-size: 18px;
+}
+.lead{
+    font-family: 'Enriqueta', serif;
+    font-size: 24px;
+}
+blockquote{
+    font-family: 'Enriqueta', serif;
+    font-size: 22px;
+    background-color: #F4F4F4;
+}
+li{
+    font-family: 'Enriqueta', serif;
+    font-size: 24px;
+}
+.btn {
+    border: none;
+    padding: 16px 24px;
+    font-size: 35px;
+    font-family: 'Cookie', cursive;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 15px;
+  }
+.btnbig {
+    border: none;
+    padding: 42px 50px;
+    font-size: 60px;
+    font-family: 'Cookie', cursive;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 15px;
+  }
+.btnsmall {
+    border: none;
+    padding: 10px 15px;
+    font-size: 10px;
+    font-family: 'Cookie', cursive;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 15px;
+  }
+  
+  /* On mouse-over */
+  .btn:hover {background: rgb(198, 30, 204);}
+  
+  .success {background-color: rgb(56, 202, 68);
+            color: white ;
+        }
+  .info {background-color: rgb(12, 78, 143);
+    color: white ;
+}
+  .warning {background-color: rgb(255, 123, 0);
+    color: white ;
+}
+  .danger {background-color: rgb(224, 55, 55);
+    color: white ;
+}
+  .default {background-color: rgb(0, 0, 0);
+    color: white ;
+}
+
+.success_outline {
+    color: rgb(56, 202, 68);
+}
+.info_outline {color: rgb(12, 78, 143);
+}
+.warning_outline {color: rgb(255, 123, 0);
+}
+.danger_outline {color: rgb(224, 55, 55);
+}
+.default_outline {color: rgb(0, 0, 0);
+}
+
+i{
+size: 60px
+}
+
+.card{
+    border: 5px solid rgb(1, 32, 2);
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #a5c3e1;
+}
+
+form{
+    font-family: 'Enriqueta', serif;
+    font-size: 24px;
+}
+
+input {
+    width: 25%;
+    height: 50px;
+    border: 3px solid black;
+    border-radius:20px; 
+    font-family: 'Enriqueta', serif;
+    font-size: 24px;
+    background-color: #a5c3e1;
+  }
+ 
